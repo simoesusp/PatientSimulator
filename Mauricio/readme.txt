@@ -1,4 +1,5 @@
-## Hello Teste :-)
+Hello Teste :-)
+===============
 
 My name is Maurício Richter. I am a student of Electrical Engineering – Emphasis on Energy and Automation Systems from University of Sao Paulo (USP) in Sao Carlos, Brazil.
 
