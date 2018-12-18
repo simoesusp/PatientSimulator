@@ -1,0 +1,2 @@
+This is a improvement of the project.
+Here we have a Arduino seeding data to Raspberry(Client), that seeding the same data to PC(Server), who reply the message to client.
