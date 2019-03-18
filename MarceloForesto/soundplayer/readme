@@ -1,1 +1,10 @@
 This is a simple sound player on Raspberry Pi, the sound is choose  by TCP/IP connection.
+
+
+To use this program is install the packages required:
+sudo apt install libsox-fmt-mp3
+sudo apt install  sox
+
+To run the program:
+#include <stdlib.h>
+system("pwd");
