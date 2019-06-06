@@ -17,7 +17,7 @@ Export it as WAV 16bit.
 ```
 	$ sudo apt-get install sox
 
-	$ sox audiodump.wav -c 1 -r 8000 -e unsigned-integer -b 8 <name>.wav
+	$ sox <name>.mp3 -c 1 -r 8000 -e unsigned-integer -b 8 <name>.wav
 ```
 
 # Converting sounddata
