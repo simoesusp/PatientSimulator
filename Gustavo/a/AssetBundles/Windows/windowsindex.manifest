@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1999727866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbb4f7b6e97fac5150c4103cfa93ded1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31bad7f03ba1e7a5326475f7a7496905
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 33cd2701e2874af4eb67ed5ee146eb7b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/WindowsIndex.asset
+Dependencies: []
